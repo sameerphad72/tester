@@ -1,1 +1,1 @@
-https://evil.com
+<title>Welcome from Lyst</titel>
